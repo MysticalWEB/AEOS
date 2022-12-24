@@ -37,12 +37,12 @@ while True:
         if syntax == "--help":
           print("Valid syntax:\n"
                 "--about: Tells about AEOS.\n"
-                "rbt\n"
-                "exit\n"
-                "clr\n"
-                "settings\n"
-                "sysinfo\n"
-                "update\n"
+                "rbt: Reboots the system.\n"
+                "exit: Shuts down the system.\n"
+                "clr: clears the screen.\n"
+                "settings: shows settings for the system.\n"
+                "sysinfo: Shows the system infos.\n"
+                "update: updates the system.\n"
                 "")
         if syntax == "rbt":
           break
