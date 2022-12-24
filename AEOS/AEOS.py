@@ -7,9 +7,9 @@ import time
 #username = 1
 #password = 1
 
-adminUsername = "ILoveNasa"
-adminPassword = "ILoveSpaceX"
-adminLogIn = [adminUsername, adminPassword]
+adminUsername = "ILoveNasa" #Not working
+adminPassword = "ILoveSpaceX" #Not working
+adminLogIn = [adminUsername, adminPassword] #Not working
 
 while True:
   username = input("Set Username: ")
